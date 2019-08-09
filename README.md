@@ -8,7 +8,6 @@
   
  <p><b> Enjoy music from a shell !!!<p><b>
   <a href="https://youtu.be/lBihVHO2t1I" rel="nofollow">
-<img src="https://github.com/1captainnemo1/GPSLocator/blob/master/gps1.png?raw=true" alt="to_video" style="max-width:100%;">
+<img src="https://github.com/1captainnemo1/Powershell_MusicPlayer/blob/master/musicpowerlogo.png?raw=true" alt="to_video" style="max-width:100%;">
  </a>
-  
   
